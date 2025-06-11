@@ -1,0 +1,58 @@
+body {
+    background: url("https://static.vecteezy.com/system/resources/previews/016/740/658/non_2x/modern-hud-technology-screen-background-vector.jpg");
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
+
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: 50px auto;
+    background: transparent;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+
+#address {
+    background: transparent;
+    color:white
+}
+#name1{
+    background: transparent;
+}
+#name2 {
+    background: transparent;
+}
+#email {
+    background: transparent;
+}
+#phone {
+    background: transparent;
+}
+.contact-form h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #ede4e4;
+}
+
+.btn-custom {
+    background: transparent;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+    border-color: white;
+    transition: 0.3s ease-in-out;
+}
+
+.btn-custom:hover {
+    background-color: #089855;
+}
+
+#result {
+    margin-top: 20px;
+    text-align: left;
+    color: #efecec;
+}
